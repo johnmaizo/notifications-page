@@ -6,7 +6,7 @@
 
   <h2 align="center">Notifications page</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://notifications-page-johnmaizo.netlify.app/">View Demo</a>
@@ -21,11 +21,11 @@
 
 </div>
 
-This is a solution to the [Notifications page on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Notifications page on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Notifications page using React JS, Tailwind CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-using-react-js-tailwind-css-tf4ZeEOl6f)
+- Solution URL: [Notifications page using React JS, Tailwind CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/notifications-page-using-react-js-tailwind-css-C39vlUlN9F)
 - Live Site URL: [https://notifications-page-johnmaizo.netlify.app/](https://notifications-page-johnmaizo.netlify.app/)
 
 <br>
