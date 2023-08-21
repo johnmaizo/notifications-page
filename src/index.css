@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        background-color: #FFFFFF;
+        font-size: 1rem;
+    }
+}
+
+@layer components {
+    .circle_red {
+        display: block;
+        width: 0.5em;
+        height: 0.5em;
+        border-radius: 50%;
+        background-color: hsl(1, 90%, 64%);
+    }
+}
