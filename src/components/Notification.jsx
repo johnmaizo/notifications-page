@@ -38,7 +38,7 @@ const Notification = ({
       <div className=" flex gap-2">
         <div>
           <img
-            src={`../src/assets/images/${src}`}
+            src={src}
             alt={name}
             className="aspect-square max-w-[2.5em]"
           />
@@ -76,7 +76,7 @@ const Notification = ({
         {src2 && (
           <div className=" ml-auto">
             <img
-              src={`../src/assets/images/${src2}`}
+              src={src2}
               alt="Chess"
               className=" aspect-square max-w-[3.1em] border-4 border-transparent hover:border-[#E6F1F3] rounded-lg"
             />
