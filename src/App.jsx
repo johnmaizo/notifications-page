@@ -21,7 +21,7 @@ const App = () => {
   return (
     <>
       <main className=" min-h-screen bg-[#F9FAFE] md:grid md:place-content-center">
-        <div className=" bg-white my-14 md:px-7 rounded-[1.5em] max-w-[48em]">
+        <div className=" bg-white my-14 md:px-7 md:rounded-[1.5em] max-w-[48em]">
           <div className=" px-5 flex justify-between items-end mt-10 flex-wrap gap-y-3">
             <div className="flex gap-3 items-end text-2xl">
               <h1 className=" font-extrabold">Notifications</h1>
