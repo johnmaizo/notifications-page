@@ -65,7 +65,7 @@ const Notification = ({
               ></span>
             )}
           </p>
-          <span className=" flex text-[#73767d]">{time}</span>
+          <span className=" flex text-[#9699A0]">{time}</span>
 
           {message && (
             <div className=" bg-[#FEFFFF] p-6 rounded-lg mt-5 border-solid border-[#E3E7E6] border hover:bg-[#E5EFF9] text-[#76797E] font-medium">
